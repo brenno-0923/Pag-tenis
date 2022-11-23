@@ -1,0 +1,16 @@
+*{
+    color: rgb(1, 1, 2);
+}
+
+#intro{
+  padding: 120px 1px;
+  background-color: aqua;
+  text-align: left;
+  position: relative;
+  top: 5;
+  left: 0;
+  
+  font-size: 100px;
+  font-weight: 2;
+   
+}
