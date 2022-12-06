@@ -2,8 +2,8 @@
 background-color: #C0C0C0;
 color: rgb;
 font-family: Courier New, monospace;
-
 }
+
 .Nome{
     color: rgb(240, 240, 250);
     font-family: Courier New, monospace;
@@ -11,4 +11,10 @@ font-family: Courier New, monospace;
     font-size: 400%;
     text-align: center;
 
+}
+.Titulo{
+    color: rgb(240, 240, 250);
+    font-family: Courier New, monospace;
+    font-weight: 10;
+    font-size: 150%;
 }
